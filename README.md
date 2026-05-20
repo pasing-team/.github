@@ -18,5 +18,5 @@ Established in 2022, **Pasing Group** is an elite collective focused on deliveri
 * **Environments:** Kali Linux, Enterprise Android SDKs, Custom Linux Kernels
 
 ---
-📬 **Connect with us:** [www.linkedin.com/in/pasing)
+📬 **Connect with us:**(https://www.linkedin.com/company/pasing-group))
 "Safeguarding critical data against emerging threats."
